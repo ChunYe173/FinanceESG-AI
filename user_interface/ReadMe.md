@@ -61,6 +61,6 @@ The User Interface Design task focuses on creating an intuitive and user-friendl
 
 The user interface is designed to be intuitive and informative, providing users with comprehensive insights into the selected company's ESG performance, greenwashing risks, digital identity, certifications, legal identifiers, and website quality.
 
-(./images/user_interface1.png)
-(./images/user_interface2.png)
-(./images/user_interface3.png)
+![User Interface](./images/user_interface1.png)
+![User Interface](./images/user_interface2.png)
+![User Interface](./images/user_interface3.png)
