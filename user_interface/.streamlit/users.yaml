@@ -1,0 +1,28 @@
+cookie:
+  expiry_days: 30
+  key: credentials
+  name: credentials_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: admin admin
+      password: $2b$12$tWD0hKyyZMT1P2RuxjMnJeMrm4VmEVZ909xCge4k1oSeFu2z1oWum
+    user1:
+      email: user1@gmail.com
+      name: User 1
+      password: $2b$12$prY.4Glmv8fNMo0l9TUotu6wBAyPZ1O1fBwW.gl/Kp.y/V26EdH2.
+    user2:
+      email: user2@gmail.com
+      name: user 2
+      password: $2b$12$IFRNTzdSuRWXPoCzhXGE6./NLECmGTNhH.9Jp2IHhPbekkWsNUTmK
+    user3:
+      email: user3@gmail.com
+      name: user 3
+      password: $2b$12$arQ.JR7lW3ZuE82zHX0hbuc3IibzEDRT9h9Ze3W/JlvelMojA/vGS
+preauthorized:
+  emails:
+  - projects@omdena.com
+  - admin@gmail.com
+  - user1@gmail.com
+  - user2@gmail.com
