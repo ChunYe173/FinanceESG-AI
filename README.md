@@ -20,6 +20,9 @@ This project aims to enhance the assessment of SME sustainability, uncover misle
 4. **Extract Financial & Sustainability Metrics**: Apply NLP to derive actionable insights from text data, processing and categorizing data points.
 5. **User-Friendly UI**: Develop a dashboard to display the ESG Scores, Greenwashing Probability, Sustainability Metrics of each company extracted by AI models.
 
+![Data Pipeline](./images/Data Pipeline.png)
+![User Interface](./images/User Interface.png)
+
 ## Conclusion
 
 This project is set to bring transformative changes in ESG monitoring, greenwashing detection, and digital identity scoring, ultimately leading to better decision-making, increased corporate transparency, and safer trade processes.
