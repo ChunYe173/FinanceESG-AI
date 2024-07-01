@@ -14,8 +14,8 @@ This project aims to enhance the assessment of SME sustainability, uncover misle
 
 ## Approach & Methodology
 
-1. **Data Exploration**: Identify and integrate new data sources from public internet sites, including news sites, GDELT news archive, company websites, LinkedIn, and sustainability reports.
-2. **Data Collection & Processing**: Utilize automated pipelines to download and temporarily store data, including news article, website & LinkedIn stats, and sustainability reports.
+1. **Data Exploration**: Identify and integrate new data sources from public internet sites, GDELT news archive, company websites, LinkedIn, and sustainability reports.
+2. **Data Collection & Processing**: Utilize automated pipelines to download and temporarily store data, including news article, website & LinkedIn stats, and processed sustainability reports.
 3. **Extract Financial & Sustainability Metrics**: Apply advanced AI and NLP techniques to generate text insights, digital scores, and ESG scores from the data collected. Develop a fine-tuned classification NLP model to distinguish genuine sustainability claims from deceptive ones (greenwashing).
 4. **Data Storage**: Store processed insights in a permenant database.
 5. **User-Friendly UI**: Develop a dashboard to display the ESG Scores, Greenwashing Probability, Digital Identity scores, NLP derive actionable insights, and sentiment trends over time of each company.
